@@ -60,9 +60,3 @@ h2 {
   text-shadow: 3px 3px 2px #064b52;
   margin-bottom: 15px;
 }
-@media (max-width: 480px) {
-  .card { padding: 32px 20px; }
-  h1 { font-size: 2.4rem; }
-  .photo-row { flex-direction: column; align-items: center; }
-  .photo { max-width: 280px; }
-}
