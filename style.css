@@ -27,9 +27,8 @@ h1 {
 
 p {
   font-family: 'Cute Font', cursive;
-  font-style: italic;
   font-style: oblique;
-  font-size: 2rem;
+  font-size: 1.5rem;
   font-weight: 500;
   color: #05182c;
   max-width: 1200px;
